@@ -10,7 +10,7 @@ puts "NO, NOT SINCE 1938!"
 # and yells back
 elsif
 speak_to_grandma == "I LOVE YOU GRANDMA!"
-puts
+puts 
 # NO, NOT SINCE 1938!
 else   
   puts I LOVE YOU TOO PUMPKIN!
