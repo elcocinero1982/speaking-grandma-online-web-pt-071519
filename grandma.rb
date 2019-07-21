@@ -1,10 +1,10 @@
 # Write a speak_to_grandma method.
-  if  speak_to_grandma.upcase
+  if  speak_to_grandma.capitals
     puts "HUH?! SPEAK UP, SONNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
-"
+if
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 
