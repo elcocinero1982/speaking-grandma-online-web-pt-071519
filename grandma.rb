@@ -9,7 +9,8 @@ puts "NO, NOT SINCE 1938!"
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
 elsif
-speak_to_grandma == 
+speak_to_grandma == "I LOVE YOU GRANDMA!"
+puts
 # NO, NOT SINCE 1938!
 else   
   puts I LOVE YOU TOO PUMPKIN!
