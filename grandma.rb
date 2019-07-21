@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma
+ speak_to_grandma
   if  speak_to_grandma.capitals
     puts "HUH?! SPEAK UP, SONNY!"
 # Whatever you say to grandma, she should respond with
