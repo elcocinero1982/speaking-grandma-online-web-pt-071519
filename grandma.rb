@@ -8,7 +8,7 @@ speak_to_grandma.capitals
 puts "NO, NOT SINCE 1938!"
 # If you shout, she can hear you (or at least she thinks so) 
 # and yells back
-else
+elsif
 speak_to_grandma == "I LOVE YOU GRANDMA!"
 puts "I LOVE YOU TOO PUMPKIN!"
 # NO, NOT SINCE 1938!
